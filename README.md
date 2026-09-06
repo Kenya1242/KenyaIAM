@@ -20,3 +20,13 @@
   - [PowerShell](https://github.com/Kenya1242/powerShell)
 - <b>Ticketing System</b>
   - [SpiceWorks Ticketing System](https://github.com/Kenya1242/spice-works-ticketing-systems)
+    
+- <b>Okta Administration</b>
+  - [Import User's from Entra to Okta](https://github.com/Kenya1242/user-accounts)
+  - [Enrollment Provisioning in Okta](https://github.com/Kenya1242/p2-licensing)
+  - [Creating Users in Okta Manually](https://github.com/Kenya1242/role-assignments)
+  - [Add Attributes to User Profiles](https://github.com/Kenya1242/group-assignments)
+  - [Creating Groups in Okta Environment](https://github.com/Kenya1242/identity-lifecycle)
+  - [Attribute-Based Access Control (ABAC) Rules](https://github.com/Kenya1242/audit-logs)
+  - [Device Management in Okta](https://github.com/Kenya1242/sign-in-logs)
+  - [Audit Logs in Okta](https://github.com/Kenya1242/authentication)
