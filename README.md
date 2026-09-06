@@ -23,7 +23,7 @@
     
 - <b>Okta Administration</b>
   - [Import User's from Entra to Okta](https://github.com/Kenya1242/import-users-entra-to-okta)
-  - [Enrollment Provisioning in Okta](https://github.com/Kenya1242/p2-licensing)
+  - [Enrollment Provisioning in Okta](https://github.com/Kenya1242/enrollment-provisioning-okta)
   - [Creating Users in Okta Manually](https://github.com/Kenya1242/create-users-manually-okta)
   - [Add Attributes to User Profiles](https://github.com/Kenya1242/adding-user-attributes-okta)
   - [Creating Groups in Okta Environment](https://github.com/Kenya1242/create-groups-okta)
