@@ -1,4 +1,10 @@
-<h1>Hi, I'm Kenya, an IT Professional </a>☺</h1>
+<h1>Hi, I'm Kenya 👋</h1>
+
+<p>I'm a technical support professional transitioning into Identity and Access Management (IAM), backed by CompTIA Security+ and hands-on lab work across Microsoft Entra ID, Okta, and IT help desk operations.</p>
+
+<p>This repository documents the hands-on projects I built to develop real IAM and help desk skills, covering identity lifecycle management, access provisioning, role and attribute based access control, and Tier 1 ticket handling.</p>
+
+<p><b>Certifications:</b> CompTIA Security+ | Certified Fraud Examiner (CFE) | Salesforce Certified Administrator | Certified Scrum Master (CSM)</p>
 
 - <b>Microsoft Azure Entra ID</b>
   - [Creating User's in Entra ID](https://github.com/Kenya1242/user-accounts)
